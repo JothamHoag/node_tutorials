@@ -2,6 +2,11 @@
 .idea
 .idea/*
 
+#npm package
+package-lock.json
+
+
+
 # Logs
 logs
 *.log
